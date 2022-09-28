@@ -1,0 +1,3 @@
+[submodule "phonebook-backend"]
+	path = phonebook-backend
+	url = https://github.com/Duyen-codes/phonebook-backend.git
